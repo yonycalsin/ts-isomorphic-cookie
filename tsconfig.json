@@ -7,10 +7,11 @@
     "experimentalDecorators": true,
     "target": "es5",
     "sourceMap": false,
-    "outDir": ".dist",
+    "outDir": "dist",
     "baseUrl": "src",
     "incremental": false,
     "esModuleInterop": true
   },
-  "exclude": ["node_modules", "dist", "__test__"]
+  "exclude": ["node_modules", "dist", "__test__"],
+  "include": ["src"]
 }
