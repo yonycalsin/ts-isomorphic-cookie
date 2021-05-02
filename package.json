@@ -1,0 +1,24 @@
+{
+  "name": "ts-isomorphic-cookie",
+  "version": "1.0.0",
+  "description": "Ts Insomorphic Cookie",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonycalsin/ts-isomorphic-cookie.git"
+  },
+  "keywords": [
+    "typescript",
+    "isomorphic",
+    "cookie"
+  ],
+  "author": "Yony Calsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonycalsin/ts-isomorphic-cookie/issues"
+  },
+  "homepage": "https://github.com/yonycalsin/ts-isomorphic-cookie#readme"
+}
